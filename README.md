@@ -37,7 +37,7 @@ Soy un desarrollador full-stack dedicado a resolver problemas a través del cód
 
 ## 📂 Proyectos destacados
 
-### 🌟 [Mi Portafolio Personal]([https://github.com/tuusuario/portafolio](https://my-portfolio-silk-delta-23.vercel.app/))
+### 🌟 [Mi Portafolio Personal](https://my-portfolio-silk-delta-23.vercel.app/)
 Un sitio web creado con **React** y **TypeScript** que muestra mis proyectos, habilidades y experiencia.
 
 ### 🚀 [API personal para multiservicios (en proceso)](https://github.com/tuusuario/api-gestion-tareas)
