@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B93E&background=FFFFFF00&width=435&lines=%C2%A1Hola!+Soy+Jordan+Valencia;Fullstack+Developer+y+Friki+de+Coraz%C3%B3n;Amante+del+codigo+y+la+cultura+geek)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=2000&pause=500&color=FF5733&background=FFFFFF00&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Jordan+Valencia;%C2%A1Programador-Full-Stack!)](https://git.io/typing-svg)
 
 
 Soy un desarrollador full-stack dedicado a resolver problemas a través del código. Actualmente estoy ampliando mis habilidades en backend, frontend y DevOps, con un enfoque en **NestJS**, **TypeScript** y herramientas de despliegue en la nube.
