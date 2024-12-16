@@ -37,7 +37,7 @@ Soy un desarrollador full-stack dedicado a resolver problemas a través del cód
 
 ## 📂 Proyectos destacados
 
-### 🌟 [Mi Portafolio Personal](https://github.com/tuusuario/portafolio)
+### 🌟 [Mi Portafolio Personal]([https://github.com/tuusuario/portafolio](https://my-portfolio-silk-delta-23.vercel.app/))
 Un sitio web creado con **React** y **TypeScript** que muestra mis proyectos, habilidades y experiencia.
 
 ### 🚀 [API personal para multiservicios (en proceso)](https://github.com/tuusuario/api-gestion-tareas)
@@ -45,16 +45,11 @@ Backend robusto con **NestJS** y **TypeScript**, implementando autenticación JW
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
-
----
 
 ## 📫 Contacto
 - 💌 Email: [jordanvalenciadev@gmail.com](mailto:jordanvalenciadev@gmail.com)
 - 🌐 LinkedIn: [Jordan Valencia Dev](https://linkedin.com/in/jordan-valencia-dev-7944a9331/)
-- 📱 WhatsApp: ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square) [Chatear](https://wa.me/3011186124) 
+- 📱 WhatsApp: [Chatear](https://wa.me/3011186124) 
 
 ---
 
