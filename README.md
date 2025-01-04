@@ -21,6 +21,8 @@ Soy un desarrollador full-stack dedicado a resolver problemas a través del cód
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=flat-square)
+
 
 ### ⚙️ **Backend**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
