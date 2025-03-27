@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
 </p>  
 
 ## 🗄️ **Bases de Datos**  
