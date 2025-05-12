@@ -114,11 +114,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jordanvalencia&label=Visitas%20al%20perfil&color=00C853&style=for-the-badge" alt="Contador de visitas" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
 </div>
