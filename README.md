@@ -71,7 +71,7 @@
 
 ## 📂 Proyectos Destacados
 
-### 🚀 [Mi Portafolio Personal](https://my-portfolio-2pocs3965-smckilluas-projects.vercel.app)
+### 🚀 [Mi Portafolio Personal](https://www.jordan-valencia.com/)
 📌 Creado con **React** y **TypeScript**, donde muestro mis proyectos, habilidades y experiencia.
 
 ### 🛠️ [API para gestión de tareas (en desarrollo)](https://github.com/tuusuario/api-gestion-tareas)
